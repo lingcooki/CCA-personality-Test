@@ -6,4 +6,5 @@ Options available:
 2. ODAC
 3. Band
 
-*This test might  be true or not true. This test is just based on the questions asked, and there is no background information of you.
+TAKE THIS TEST TO FIND OUT WHAT KIND OF CCA YOU SHOULD GO FOR!!!!!
+*this is not 100% accurate but it will be able to give you a gauge on which CCA you should pick*
