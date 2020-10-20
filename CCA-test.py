@@ -14,7 +14,7 @@ sports2 = input("I like to sweat")
 
 outdoor2 = input("I'm good with tying knots and ropes.")
 
-music2 = input("I play a musical instrument well.")
+music2 = input("I know and can play a musical instrument well.")
 
 
 sports_final = int(sports1) + int(sports2)
